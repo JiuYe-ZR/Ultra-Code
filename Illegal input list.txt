@@ -1,0 +1,15 @@
+escape
+caps lock
+shift
+control
+scroll lock
+insert
+delete
+end
+home
+page up
+page down
+up arrow
+down arrow
+left arrow
+right arrow

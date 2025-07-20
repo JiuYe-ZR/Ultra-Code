@@ -1,0 +1,14 @@
+Type_|String_"_"
+Type_Window_(_)
+Type_._None_None
+Type_[_None_None
+Type_]_None_None
+Type_:_None_None
+Type_gui_None_.
+Type_display_._(
+Type_do__
+Type_(_None_None
+Type_)_None_None
+Type_Text_(_"
+Type_Run_(_)
+Type_Event_None_(
